@@ -26,7 +26,7 @@ Este é um projeto de Landing Page em Tailwind CSS inspirado no design da Uber. 
 Com a conclusão deste projeto em Tailwind CSS, percebi a eficiência das classes pré-definidas do Tailwind em simplificar o processo de estilização. Além da experiência do desenvolvimento mobile-first  revelou-se extremamente eficaz, contribuindo para a responsividade do projeto. Este projeto marcou o início de uma jornada de estudo e exploração das vastas possibilidades oferecidas pelo Tailwind. 
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Landing-Page-Uber-TailwindCss/)
+Para ver o projeto pronto [clique aqui ](https://clari-cassia-projetcs-landing-page-uber-tailwind-css.vercel.app/)
 
 
 
